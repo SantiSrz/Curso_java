@@ -38,7 +38,5 @@ public class Listas {
 		names.clear();
 		System.out.println(names);
 		System.out.println(names.size());
-
-	
 	}
 }
