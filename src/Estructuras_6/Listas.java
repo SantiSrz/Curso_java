@@ -34,6 +34,20 @@ public class Listas {
 		//Buscar elemento
 		names.contains("Santiago");
 		
+		// Conjuntos
+			//names.addAll(numbers); Error por incompatibilidad de datos
+				
+		var countries = new ArrayList<String>();
+		countries.add("España");
+		countries.add("Alemania");
+		countries.add("Portugal");
+				
+		names.addAll(countries);
+		System.out.println(names);
+				
+		names.removeAll(countries);
+		System.out.println(names);
+		
 		//Limpiar Listas
 		names.clear();
 		System.out.println(names);
