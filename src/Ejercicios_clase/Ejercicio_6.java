@@ -21,6 +21,8 @@ public class Ejercicio_6 {
         }
     	System.out.println(factorial1);
     	
+    	//
+    	
         System.out.print("Introduce un número: ");
         int num2 = sc.nextInt();
     	
