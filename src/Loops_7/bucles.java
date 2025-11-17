@@ -19,7 +19,7 @@ public class bucles {
 			System.out.println(names[i]);
 		}
 		
-		// For-each -> Sirve para recorrer Arrays, Listas maps, sets, etc...
+		// For-each -> Sirve para recorrer Arrays, Listas, maps, sets, etc...
 		
 			//Array
 		for(String nombres:names) {
