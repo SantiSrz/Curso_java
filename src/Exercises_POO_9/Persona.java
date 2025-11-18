@@ -1,10 +1,10 @@
-package POO_9;
+package Exercises_POO_9;
 
 public class Persona {
 
 	// Atributos
-	String name;
-	int age;
+	public String name;
+	public int age;
 	
 	// Constructores
 	public Persona(String name, int age) {

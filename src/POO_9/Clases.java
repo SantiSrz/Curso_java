@@ -1,5 +1,7 @@
 package POO_9;
 
+import Exercises_POO_9.Persona;
+
 public class Clases {
 	
 	public static void main(String[] args) {
